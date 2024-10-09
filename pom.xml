@@ -11,12 +11,12 @@
   <version>1.0.0</version>
 
   <!-- REPLACE WITH YOUR GITHUB_USERNAME -->
-  <groupId>GITHUB_USERNAME</groupId>
+  <groupId>DeekshithaReddy0911</groupId>
 
   <distributionManagement>
     <repository>
-      <id>github</id>
-      <name>GitHub Packages</name>
+      <id>DeekshithaReddy0911</id>
+      <name>CDLinkedInLearning</name>
 
       <!-- REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME -->
       <url>https://maven.pkg.github.com/GITHUB_USERNAME/GITHUB_REPONAME</url>
